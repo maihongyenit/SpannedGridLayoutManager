@@ -9,11 +9,11 @@ import android.graphics.Rect
 import android.graphics.RectF
 import android.os.Parcel
 import android.os.Parcelable
-import android.support.v7.widget.LinearSmoothScroller
-import android.support.v7.widget.RecyclerView
 import android.util.Log
 import android.util.SparseArray
 import android.view.View
+import androidx.recyclerview.widget.LinearSmoothScroller
+import androidx.recyclerview.widget.RecyclerView
 import kotlin.math.roundToInt
 
 
